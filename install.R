@@ -1,1 +1,1 @@
-holepunch::write_install(dplyr)
+install.packages("readr")
